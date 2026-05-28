@@ -16,7 +16,7 @@ appends to it when something changes.
 ## The result
 
 Curated context instead of a copy-pasted project dump dropped my setup tokens from
-roughly **10,000 per session to about 2,500**, a ~75% cut, every session. The morning
+roughly **11,000 per session to about 3,000**, a ~73% cut, every session. The morning
 ritual of catching the assistant up basically went away.
 
 ## How an agent uses this
